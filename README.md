@@ -24,27 +24,27 @@ Comandos Proyectos:
 - git pull origin <>
 - git status
 
-3. MarkDown 
-# Título H1
-## Título H2
-### Título H3
-#### Título H4
-##### Título H5
-###### Título H6
-- Elemento 1
-1. Elemento 1
-># H1
->## H2
->### H3
->#### H4
->##### H5
->###### H6
-`*cursiva*`
-`_cursiva_`
-`**negrita**`
-`__negrita__`
-`~~tachado~~`
-![Video ejemplo](https://youtu.be/oxaH9CFpeEE)
-- [x] Tareas
-[]() Imagen
+3. MarkDown <br>
+- `# Título H1` <br>
+- `## Título H2` <br>
+- `### Título H3` <br>
+- `#### Título H4` <br>
+- `##### Título H5` <br>
+- `###### Título H6`<br>
+- `- Elemento 1` <br>
+- `1. Elemento 1` <br>
+- `># H1` <br>
+- `>## H2` <br>
+- `>### H3` <br>
+- `>#### H4` <br>
+- `>##### H5` <br>
+- `>###### H6` <br>
+- `*cursiva*` <br>
+- `_cursiva_` <br>
+- `**negrita**` <br>
+- `__negrita__` <br>
+- `~~tachado~~` <br>
+- `![Video ejemplo](https://youtu.be/oxaH9CFpeEE)` <br>
+- `[x] Tareas` <br>
+- `[]() Imagen` <br>
 
